@@ -1,6 +1,3 @@
-const allowedOrigins = [
-	'https://technotes.onrender.com',
-	'http://localhost:3000',
-];
+const allowedOrigins = ['https://chimerical-lamington-beb93c.netlify.app'];
 
 module.exports = allowedOrigins;
